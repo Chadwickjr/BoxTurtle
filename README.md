@@ -122,10 +122,6 @@ Example:
 
 bgcolor()
 
-begin_fill()
-
-end_fill()
-
 speed()
 
 title()
@@ -162,21 +158,9 @@ exitonclick()
 
 bye()
 
-fillcolor()
-
-hideturtle()
-
-showturtle()
-
 ---
 
-- Known issues:
-
-There may be some problems with using showturtle, so by default, the turtle is hidden. There are also known issues with using fill, so if you use the begin_fill() command, keep in mind it may not work properly.
-
----
-
-*Build v1.1.2*
+*Build v1.1.3*
 
 ---
 
